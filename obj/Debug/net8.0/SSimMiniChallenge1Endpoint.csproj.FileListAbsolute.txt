@@ -31,3 +31,4 @@ C:\Users\MINDBODYSOLE\Documents\Level 2 - Coding class\assignments\SSimMiniChall
 C:\Users\MINDBODYSOLE\Documents\Level 2 - Coding class\assignments\SSimMiniChallenge1Endpoint\obj\Debug\net8.0\SSimMiniChallenge1Endpoint.pdb
 C:\Users\MINDBODYSOLE\Documents\Level 2 - Coding class\assignments\SSimMiniChallenge1Endpoint\obj\Debug\net8.0\SSimMiniChallenge1Endpoint.genruntimeconfig.cache
 C:\Users\MINDBODYSOLE\Documents\Level 2 - Coding class\assignments\SSimMiniChallenge1Endpoint\obj\Debug\net8.0\ref\SSimMiniChallenge1Endpoint.dll
+C:\Users\MINDBODYSOLE\Documents\Level 2 - Coding class\assignments\SSimMiniChallenge1Endpoint\obj\Debug\net8.0\SSimMiniChallenge1Endpoint.sourcelink.json
