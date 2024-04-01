@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SSimMiniChallenge1Endpoint.props" />
+</Project>
